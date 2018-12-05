@@ -1,2 +1,2 @@
 # Lfi-List
-CTF中本地文件包含的fuzz列表 (LFI fuzz list in CTF)
+CTF中任意文件读取中值得读的fuzz列表 (Arbitrary File Read fuzz list in CTF)
