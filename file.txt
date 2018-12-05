@@ -8,9 +8,25 @@
 /var/www/index.php
 /var/www/index.html
 /var/www/htdocs/index.php
-/var/www/htdocs/index.php
+/var/www/htdocs/index.html
 /var/www/html/index.html
 /var/www/html/index.php
+/var/www/html/ssrf/index.php
+/var/www/html/ssrf/ssrf.php
+/var/www/ssrf/index.php
+/var/www/ssrf/ssrf.php
+/var/www/html/xxe/index.php
+/var/www/html/xxe/xxe.php
+/var/www/xxe/index.php
+/var/www/xxe/xxe.php
+/www/index.php
+/www/index.html
+/web/index.php
+/web/index.html
+/flag
+/var/www/html/flag
+/var/www/flag
+/tmp/flag
 
 /etc/apache2/apache2.conf
 /etc/apache2/conf-available/docker-php.conf
